@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 
 **Languages**
-
+<h3 align="center">🛠️ Tech Stack</h3>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
