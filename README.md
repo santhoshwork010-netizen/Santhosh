@@ -11,14 +11,17 @@
 ---
 
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
 
-**Languages**
+### 🛠️ Tech Stack
+
+<p><b>Languages</b></p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-**Data & Visualization**
+<p><b>Data & Visualization</b></p>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -26,13 +29,13 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Machine Learning**
+<p><b>Machine Learning</b></p>
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logo=python&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square&logo=python&logoColor=white)
 
-**Tools**
+<p><b>Tools</b></p>
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
