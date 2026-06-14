@@ -76,7 +76,9 @@
 
 ### 📈 Activity Graph
 
-[![Santhosh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanx07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FF6E6E)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FF6E6E&area=true&area_color=70A5FD" width="95%"/>
+
 
 </div>
 
