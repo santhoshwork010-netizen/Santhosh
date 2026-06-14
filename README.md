@@ -86,7 +86,7 @@
 
 ### 🏆 Trophy Wall
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanx07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=sanx07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
